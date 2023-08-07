@@ -1,0 +1,12 @@
+name: AdvancementRace
+version: '${project.version}'
+main: com.fameless.advancementrace.Main
+api-version: '1.20'
+load: STARTUP
+
+commands:
+  timer:
+  menu:
+  start:
+  stop:
+  reset:
